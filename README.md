@@ -2,7 +2,7 @@
 # SEO
 Técnicas y herramientas.
 
-# Enlaces que pueden resultar de utilidad: 
+# Enlaces que pueden resultar de utilidad: -
 
 * [8 Pasos para Conseguir que te Acepten en Amazon Affiliates](https://romualdfons.com/ser-afiliado-amazon/)
 * [16 Errores que Harán que te Cierren tu Cuenta de Amazon Afiliados](https://romualdfons.com/errores-amazon-afiliados/)
