@@ -9,7 +9,17 @@ Técnicas y herramientas.
 * [similarweb](https://www.similarweb.com/)
 * [neilpatel](https://app.neilpatel.com/es/traffic_analyzer/overview?lang=es&locId=2724&domain=decalaveras.com)
 * [semrush](https://es.semrush.com/seo/)
+* [answerthepublic](https://answerthepublic.com/)
+* [ahrefs: keyword-generator](https://ahrefs.com/keyword-generator)
+* [trends google](https://trends.google.com/trends/)
+* []()
+* []()
+* []()
 
+# Extensiones de Google Chrome
+
+* [Keyword Surfer](https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca?hl=en)
+* []()
 
 # Enlaces que pueden resultar de utilidad: 
 
@@ -19,7 +29,7 @@ Técnicas y herramientas.
 * [Guía para instalar el Certificado SSL y pasar de HTTP a HTTPS](https://romualdfons.com/certificado-ssl/)
 * [Cómo cumplir con el nuevo reglamento de protección de datos (RGPD)](https://romualdfons.com/nuevo-reglamento-proteccion-datos-rgpd/)
 * [ TSR - La Forma Más Rápida de Ganar Dinero con Amazon Afiliados](https://romualdfons.com/tsr/)
-
+* [herramientas seo gratuitas](https://ahrefs.com/blog/es/herramientas-seo-gratuitas/)
 
 # Documentos
 
