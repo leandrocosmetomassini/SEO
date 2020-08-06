@@ -43,7 +43,7 @@ Técnicas y herramientas.
 
 * [figuradictos](https://figuradictos.com/)
 * [cursosinemweb](https://cursosinemweb.es/)
-
+* [avesexoticas](https://avesexoticas.org/)
 
 # Rangos
   
