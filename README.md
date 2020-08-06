@@ -21,7 +21,5 @@ Técnicas y herramientas.
 * [ TSR - La Forma Más Rápida de Ganar Dinero con Amazon Afiliados](https://romualdfons.com/tsr/)
 
 
-
-
-
-* []()
+# Documentos
+* [FLOTA (Encontrar un nicho rentable)](https://github.com/leandrocosmetomassini/SEO/blob/master/Documentos/M%C3%A9todo%20FLOTA.pdf)
