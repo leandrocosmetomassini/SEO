@@ -2,6 +2,12 @@
 # SEO
 Técnicas y herramientas.
 
+# Alternativa de AHREFS
+* [woorank](https://www.woorank.com/es/)
+* [metricspot](https://metricspot.com/)
+* [statscrop](https://www.statscrop.com/)
+* [similarweb](https://www.similarweb.com/)
+
 # Enlaces que pueden resultar de utilidad: 
 
 * [8 Pasos para Conseguir que te Acepten en Amazon Affiliates](https://romualdfons.com/ser-afiliado-amazon/)
@@ -10,6 +16,9 @@ Técnicas y herramientas.
 * [Guía para instalar el Certificado SSL y pasar de HTTP a HTTPS](https://romualdfons.com/certificado-ssl/)
 * [Cómo cumplir con el nuevo reglamento de protección de datos (RGPD)](https://romualdfons.com/nuevo-reglamento-proteccion-datos-rgpd/)
 * [ TSR - La Forma Más Rápida de Ganar Dinero con Amazon Afiliados](https://romualdfons.com/tsr/)
+
+
+
 
 
 * []()
