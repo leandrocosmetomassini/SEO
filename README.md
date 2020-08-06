@@ -7,6 +7,9 @@ Técnicas y herramientas.
 * [metricspot](https://metricspot.com/)
 * [statscrop](https://www.statscrop.com/)
 * [similarweb](https://www.similarweb.com/)
+* [neilpatel](https://app.neilpatel.com/es/traffic_analyzer/overview?lang=es&locId=2724&domain=decalaveras.com)
+* [semrush](https://es.semrush.com/seo/)
+
 
 # Enlaces que pueden resultar de utilidad: 
 
