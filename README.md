@@ -22,4 +22,25 @@ Técnicas y herramientas.
 
 
 # Documentos
+
 * [FLOTA (Encontrar un nicho rentable)](https://github.com/leandrocosmetomassini/SEO/blob/master/Documentos/M%C3%A9todo%20FLOTA.pdf)
+
+
+# Webs bien posicionadas de ejemplo
+
+* [figuradictos](https://figuradictos.com/)
+* [cursosinemweb](https://cursosinemweb.es/)
+
+
+# Rangos
+  
+* RANGO C:​ son webs recién creadas, que por lo tanto no tienen ingresos.  
+* RANGO B: son webs que generan menos de 1.000€ mensuales. La diferencia con
+las webs del rango C es que tienen más contenidos internos, con palabras claves
+derivadas, es decir que tienen relación directa con la palabra clave principal.
+Optimizamos el contenido para que Google vea que es una web especializada.  
+* RANGO A: son webs que generan más de 1.000€ mensuales. Además de
+palabras clave derivadas, se crean contenidos con palabras clave que puedan
+resultar de interés para la gente que busca la palabra clave principal.  
+
+* []()
