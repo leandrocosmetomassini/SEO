@@ -29,14 +29,14 @@ Técnicas y herramientas.
 * [Guía para instalar el Certificado SSL y pasar de HTTP a HTTPS](https://romualdfons.com/certificado-ssl/)
 * [Cómo cumplir con el nuevo reglamento de protección de datos (RGPD)](https://romualdfons.com/nuevo-reglamento-proteccion-datos-rgpd/)
 * [ TSR - La Forma Más Rápida de Ganar Dinero con Amazon Afiliados](https://romualdfons.com/tsr/)
-* [herramientas seo gratuitas](https://ahrefs.com/blog/es/herramientas-seo-gratuitas/)
+* [Herramientas seo gratuitas](https://ahrefs.com/blog/es/herramientas-seo-gratuitas/)
 
 # Documentos
 
 * [FLOTA (Encontrar un nicho rentable)](https://github.com/leandrocosmetomassini/SEO/blob/master/Documentos/M%C3%A9todo%20FLOTA.pdf)
 
 
-# Webs bien posicionadas de ejemplo
+# Webs posicionadas de ejemplo
 
 * [figuradictos](https://figuradictos.com/)
 * [cursosinemweb](https://cursosinemweb.es/)
