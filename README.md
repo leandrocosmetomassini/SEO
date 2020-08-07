@@ -57,3 +57,6 @@ palabras clave derivadas, se crean contenidos con palabras clave que puedan
 resultar de interés para la gente que busca la palabra clave principal.  
 
 * []()
+
+# Optimizar Wordpress
+* [tutorial wordpress](https://romualdfons.com/tutorial-wordpress/)
