@@ -64,6 +64,5 @@ resultar de interés para la gente que busca la palabra clave principal.
 
 # Hosting gratis
 * [googiehost](https://googiehost.com/es/signup.html)  
-* [freehosting](https://www.freehosting.com/)
 * [gigarocket](https://www.gigarocket.net/)
 
