@@ -59,4 +59,4 @@ resultar de interés para la gente que busca la palabra clave principal.
 * []()
 
 # Optimizar Wordpress
-* [tutorial wordpress](https://romualdfons.com/tutorial-wordpress/)
+* [Tutorial wordpress](https://romualdfons.com/tutorial-wordpress/)
