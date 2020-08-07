@@ -60,3 +60,10 @@ resultar de interés para la gente que busca la palabra clave principal.
 
 # Optimizar Wordpress
 * [Tutorial wordpress](https://romualdfons.com/tutorial-wordpress/)
+
+
+# Hosting gratis
+* [googiehost](https://googiehost.com/es/signup.html)  
+* [freehosting](https://www.freehosting.com/)
+* [gigarocket](https://www.gigarocket.net/)
+
