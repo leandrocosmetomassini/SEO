@@ -1,5 +1,5 @@
 ![](https://bigseoacademy.com/wp-content/themes/orbital-child/assets/img/of-bigseo.png)
-# SEO*
+# SEO
 Técnicas y herramientas.
 
 # Cursos de SEO  
