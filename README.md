@@ -33,6 +33,7 @@ Técnicas y herramientas.
 * [Cómo cumplir con el nuevo reglamento de protección de datos (RGPD)](https://romualdfons.com/nuevo-reglamento-proteccion-datos-rgpd/)
 * [ TSR - La Forma Más Rápida de Ganar Dinero con Amazon Afiliados](https://romualdfons.com/tsr/)
 * [Herramientas seo gratuitas](https://ahrefs.com/blog/es/herramientas-seo-gratuitas/)
+* [Orbitalthemes: documentación](https://orbitalthemes.net/documentacion/#jump-videos)
 
 # Documentos
 
