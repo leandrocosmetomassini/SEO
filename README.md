@@ -63,11 +63,17 @@ Técnicas y herramientas.
 * [gimnasioencasa](https://gimnasioencasa.net/tablas-de-inversion/)
 * [barbacoas](https://barbacoas.online/)
 * [mundoherramienta](https://www.mundoherramienta.net/herramientas/alicates-multiusos/)
+* [loentiendo](https://loentiendo.com/)
+* [citaparaeldni](https://citaparaeldni.es/cita-previa-extranjeria/)
+* [mejorconsalud](https://mejorconsalud.com/)
 * []()
 * []()
-* []()
-* []()
-* []()
+
+# Google search console  
+
+* site:dominio = Todas las URL de una web, páaginas con palabras clave.  
+
+
 
 
 # Rangos
