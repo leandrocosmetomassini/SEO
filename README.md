@@ -17,11 +17,14 @@ Técnicas y herramientas.
 * [trends google](https://trends.google.com/trends/)
 * []()
 * []()
-* []()
+
 
 # Extensiones de Google Chrome
 
 * [keywordseverywhere](https://keywordseverywhere.com/)
+* [moz](https://moz.com/)
+* [surferseo](https://surferseo.com/keyword-surfer-extension/)
+
 
 # Enlaces que pueden resultar de utilidad: 
 
@@ -45,6 +48,12 @@ Técnicas y herramientas.
 * [cursosinemweb](https://cursosinemweb.es/)
 * [avesexoticas](https://avesexoticas.org/)
 * [deunicornios](https://deunicornios.online/)  
+* [plataformavibratoria](http://plataformavibratoria.org.es/)
+* [browardschools](https://www.browardschools.com/Page/22756)
+* [nakoko](http://nakoko.com/)
+* [yagmour](https://www.yagmour.com.ar/)
+
+
 
 # Rangos
   
