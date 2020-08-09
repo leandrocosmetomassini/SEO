@@ -52,7 +52,22 @@ Técnicas y herramientas.
 * [browardschools](https://www.browardschools.com/Page/22756)
 * [nakoko](http://nakoko.com/)
 * [yagmour](https://www.yagmour.com.ar/)
-
+* [runnium](https://www.runnium.es/)
+* [nivellaser](https://nivellaser.es/)
+* [mejornivellaser](https://mejornivellaser.com/)
+* [Nivel Laser lineas verdes](https://www.google.com/search?sxsrf=ALeKk02IqiCh3VGNHest4_1LE1mTUGoO6g%3A1597010220323&ei=LHEwX66uE4vR5OUPqJSAmA8&q=Nivel+Laser+lineas+verdes&oq=Nivel+Laser+lineas+verdes&gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR1DF9AZY5IIHYL-DB2gAcAF4AIABAIgBAJIBAJgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwiu9InXjo_rAhWLKLkGHSgKAPMQ4dUDCAw&uact=5)
+* [ingletadoratelescopica](https://ingletadoratelescopica.com/)
+* [mundoherramienta](https://www.mundoherramienta.net/herramienta-electrica/ingletadora-telescopica/)
+* [desbrozadorasdegasolina](https://desbrozadorasdegasolina.com/)
+* [tabladeinversion](http://tabladeinversion.net/)
+* [gimnasioencasa](https://gimnasioencasa.net/tablas-de-inversion/)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 # Rangos
