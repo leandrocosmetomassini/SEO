@@ -28,14 +28,18 @@ Técnicas y herramientas.
 
 # Enlaces que pueden resultar de utilidad: 
 
-* [8 Pasos para Conseguir que te Acepten en Amazon Affiliates](https://romualdfons.com/ser-afiliado-amazon/)
-* [16 Errores que Harán que te Cierren tu Cuenta de Amazon Afiliados](https://romualdfons.com/errores-amazon-afiliados/)
-* [Guía Completa del Plugin Amazon Affiliate for WordPress (AAWP)](https://romualdfons.com/amazon-affiliates-wordpress-aawp/)
-* [Guía para instalar el Certificado SSL y pasar de HTTP a HTTPS](https://romualdfons.com/certificado-ssl/)
-* [Cómo cumplir con el nuevo reglamento de protección de datos (RGPD)](https://romualdfons.com/nuevo-reglamento-proteccion-datos-rgpd/)
-* [ TSR - La Forma Más Rápida de Ganar Dinero con Amazon Afiliados](https://romualdfons.com/tsr/)
-* [Herramientas seo gratuitas](https://ahrefs.com/blog/es/herramientas-seo-gratuitas/)
-* [Orbitalthemes: documentación](https://orbitalthemes.net/documentacion/#jump-videos)
+* [8 Pasos para Conseguir que te Acepten en Amazon Affiliates](https://romualdfons.com/ser-afiliado-amazon/)  
+* [16 Errores que Harán que te Cierren tu Cuenta de Amazon Afiliados](https://romualdfons.com/errores-amazon-afiliados/)  
+* [Guía Completa del Plugin Amazon Affiliate for WordPress (AAWP)](https://romualdfons.com/amazon-affiliates-wordpress-aawp/)  
+* [Guía para instalar el Certificado SSL y pasar de HTTP a HTTPS](https://romualdfons.com/certificado-ssl/)  
+* [Cómo cumplir con el nuevo reglamento de protección de datos (RGPD)](https://romualdfons.com/nuevo-reglamento-proteccion-datos-rgpd/)  
+* [ TSR - La Forma Más Rápida de Ganar Dinero con Amazon Afiliados](https://romualdfons.com/tsr/)  
+* [Herramientas seo gratuitas](https://ahrefs.com/blog/es/herramientas-seo-gratuitas/)  
+* [Orbitalthemes: documentación](https://orbitalthemes.net/documentacion/#jump-videos)  
+* [yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/)  
+* []()
+
+
 
 # Documentos
 
@@ -66,6 +70,23 @@ Técnicas y herramientas.
 * [loentiendo](https://loentiendo.com/)
 * [citaparaeldni](https://citaparaeldni.es/cita-previa-extranjeria/)
 * [mejorconsalud](https://mejorconsalud.com/)
+* [9jam](9jam.com)
+* [bigseo](bigseo.es)
+* [cerrahero](cerrahero.com)
+* [dietadelmelocoton](dietadelmelocoton.net)
+* [hipersensibilidaddentinaria](hipersensibilidaddentinaria.es)
+* [lovende](lovende.es)
+* [relojes](relojes.fit)
+* [deyoutubers](www.deyoutubers.net)
+* [bigseoagency](bigseoagency.com)
+* [cinemaseries](cinemaseries.es)
+* [deyoutubers](deyoutubers.net)
+* [dolordered](dolordered.com)
+* [listadiscoteca](listadiscoteca.net)
+* [northernnhmagazine](northernnhmagazine.com)
+* [significadodeloscolores](significadodeloscolores.net)
+* [bigseoagency](www.bigseoagency.com)
+* [significadodeloscolores](www.significadodeloscolores.net)
 * []()
 * []()
 
