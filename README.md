@@ -21,8 +21,7 @@ Técnicas y herramientas.
 
 # Extensiones de Google Chrome
 
-* [Keyword Surfer](https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca?hl=en)
-* []()
+* [keywordseverywhere](https://keywordseverywhere.com/)
 
 # Enlaces que pueden resultar de utilidad: 
 
