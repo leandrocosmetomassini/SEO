@@ -15,8 +15,8 @@ Técnicas y herramientas.
 * [answerthepublic](https://answerthepublic.com/)
 * [ahrefs: keyword-generator](https://ahrefs.com/keyword-generator)
 * [trends google](https://trends.google.com/trends/)
-* []()
-* []()
+* [semrush](https://www.semrush.com/)
+* [amazon](http://amazon.com/)  
 
 
 # Extensiones de Google Chrome
@@ -41,7 +41,7 @@ Técnicas y herramientas.
 * [semrush 14 days free](https://www.semrush.com/partner/bloggerspassion-guru/)    
 * [semrush 30 days free](https://www.semrush.com/partner/bloggingx30/)  
 * [semrush alternatives](https://masterblogging.com/semrush-alternatives/)   
-
+* [keywordtool](https://keywordtool.io/es)
 
 # Documentos
 
