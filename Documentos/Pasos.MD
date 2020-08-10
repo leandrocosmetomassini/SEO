@@ -10,9 +10,14 @@
   [keywordtool](https://keywordtool.io/es)  
   [SITE:DOMINIO](https://www.google.com)  
   [* palabra](https://www.google.com)  
-  []()  
-  []() 
-  []() 
-  []() 
   
-  
+## 2 Creación Web Semilla Tienda  
+
+* Quitar las www. del dominio, desde la configuracion  
+* Marcar que Google todavia no indexe mi web dede la configuracion  
+* Quitar todos los post que vienen por defeceto  
+* Borrar el about de la pagina permanentemente  
+* Borrar el plugin hello de plugins  
+* En settings Permalinks marcar la opcion post name
+* Cambiar el idioma a espanol
+* 
