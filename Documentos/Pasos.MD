@@ -20,9 +20,10 @@
 * Borrar el plugin hello de plugins  
 * En settings Permalinks marcar la opcion post name
 * Cambiar el idioma a espanol
-
+* Activar el plugin [akismet](https://akismet.com/wordpress/) anti spam
 
 Plugins:
 
-- W3 Total cache: para optimzar el .JS
-
+- W3 Total cache: para optimzar el .JS  
+- YOAST SEO  (Activar configuracion avanzada)
+- contact form 7
