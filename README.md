@@ -37,8 +37,10 @@ Técnicas y herramientas.
 * [Herramientas seo gratuitas](https://ahrefs.com/blog/es/herramientas-seo-gratuitas/)  
 * [Orbitalthemes: documentación](https://orbitalthemes.net/documentacion/#jump-videos)  
 * [yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/)  
-* []()
-
+* [investigación de palabras clave](https://www.semrush.com/blog/how-to-use-semrush-keyword-research/?utm_source=tool&utm_medium=or&utm_campaign=keyword-research)
+* [semrush 14 days free](https://www.semrush.com/partner/bloggerspassion-guru/)    
+* [semrush 30 days free](https://www.semrush.com/partner/bloggingx30/)  
+* [semrush alternatives](https://masterblogging.com/semrush-alternatives/)   
 
 
 # Documentos
