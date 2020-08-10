@@ -21,6 +21,7 @@
 * En settings Permalinks marcar la opcion post name
 * Cambiar el idioma a espanol
 * Activar el plugin [akismet](https://akismet.com/wordpress/) anti spam
+* politica de cookies y politicas de privacidad (Poner en no index)
 
 Plugins:
 
