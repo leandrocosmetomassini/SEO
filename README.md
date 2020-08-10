@@ -16,7 +16,7 @@ Técnicas y herramientas.
 * [ahrefs: keyword-generator](https://ahrefs.com/keyword-generator)
 * [trends google](https://trends.google.com/trends/)
 * [semrush](https://www.semrush.com/)
-* [amazon](http://amazon.com/)  
+
 
 
 # Extensiones de Google Chrome
