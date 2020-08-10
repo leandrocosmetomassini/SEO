@@ -120,3 +120,14 @@ resultar de interés para la gente que busca la palabra clave principal.
 * [googiehost](https://googiehost.com/es/signup.html)  
 * [gigarocket](https://www.gigarocket.net/)
 * [SSL](https://www.youtube.com/watch?v=-PiV6zmyrIw)
+
+
+# Favoritos
+* [yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/)
+* [keywordplanner](https://ads.google.com/aw/keywordplanner/home?ocid=535377071&euid=425912766&__u=3485568334&uscid=535377071&__c=7443788279&authuser=1)
+* [semrush](https://www.semrush.com/dashboard2/)
+* SITE:DOMINIO
+* [keyboardsurfer](https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca)
+* [keywordseverywhere](https://keywordseverywhere.com/)
+* []()
+* []()
