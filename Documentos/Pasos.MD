@@ -2,7 +2,7 @@
 
 ## 1 Método FLOTA  
 
-* Buscar un nicho,para una web que no sea categoría A, sino que sea categoría C, es importante concentrarse en palabras derivadas, por ejemplo  recetas de paella, una categoría que no se encuentre en [amazon](http://amazon.com/)  .
+* Buscar un nicho,para una web que no sea categoría A, sino que sea categoría C, es importante concentrarse en palabras derivadas, por ejemplo  recetas de paella, una categoría que no se encuentre en [amazon](http://amazon.com/).
 * Utilizando:  
   [Planilla Método FLOTA](https://docs.google.com/spreadsheets/d/1l1SqfRLgYH0lFUiqozkInpMT7eDOlmuv7Uqx96RNdko/edit#gid=0)  
   [yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/)  
