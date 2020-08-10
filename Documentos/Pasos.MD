@@ -20,4 +20,9 @@
 * Borrar el plugin hello de plugins  
 * En settings Permalinks marcar la opcion post name
 * Cambiar el idioma a espanol
-* 
+
+
+Plugins:
+
+- W3 Total cache: para optimzar el .JS
+
