@@ -104,7 +104,7 @@ Técnicas y herramientas.
 * [hamacas](https://www.hamacas.top/)  
 * [unareceta](https://unareceta.com/)  
 * [dedegus](dedegus.com)  
-* []()  
+* [thebutchersociety](https://www.thebutchersociety.com/)  
 * []()  
 * []()  
 * []()  
@@ -151,6 +151,7 @@ resultar de interés para la gente que busca la palabra clave principal.
 * SITE:DOMINIO
 * [keyboardsurfer](https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca)
 * [keywordseverywhere](https://keywordseverywhere.com/)
+* *PALABRA / comoPALABRA
 * []()
 * []()
 * []()
