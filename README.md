@@ -46,6 +46,10 @@ Técnicas y herramientas.
 * simplessl
 * [pagespeed](https://developers.google.com/speed/pagespeed/insights/)
 * [pixabay](https://pixabay.com/es/)
+* [sered](https://sered.net/)
+* [dondominio](https://www.dondominio.com/)
+* []()
+* []()
 * []()
 * []()
 
