@@ -8,7 +8,7 @@
   [yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/)  
   [keywordplanner](https://ads.google.com/aw/keywordplanner/home?ocid=535377071&euid=425912766&__u=3485568334&uscid=535377071&__c=7443788279&authuser=1)  
   [keywordtool](https://keywordtool.io/es)  
-  [SITE:DOMINIO](https://www.google.com)  
+  [SITE:DOMINIO](https://www.google.com) Pasar directamente a la pagina 2
   [* palabra](https://www.google.com)  
   
 ## 2 Creación Web Semilla Tienda  
