@@ -11,6 +11,7 @@
   [SITE:DOMINIO](https://www.google.com) Pasar directamente a la pagina 2
   [* palabra](https://www.google.com)  
   Buscar palabras claves derivadas, mirar al final del los resultados de google
+  Utilizar ventana en modo incognito  
   
 ## 2 Creación Web Semilla Tienda  
 
