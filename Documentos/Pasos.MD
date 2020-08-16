@@ -10,6 +10,7 @@
   [keywordtool](https://keywordtool.io/es)  
   [SITE:DOMINIO](https://www.google.com) Pasar directamente a la pagina 2
   [* palabra](https://www.google.com)  
+  Buscar palabras claves derivadas  
   
 ## 2 Creación Web Semilla Tienda  
 
