@@ -30,4 +30,5 @@ Plugins:
 - W3 Total cache: para optimzar el .JS  MInimizar JS y CSS
 - Akiset Anti-Spam API key
 - YOAST SEO  (Activar configuracion avanzada)
-- contact form 7
+- contact form 7 (No-index)
+- GDPR Cookie Consent (Por WebToffee) 
