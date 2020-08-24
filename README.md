@@ -54,7 +54,7 @@ Técnicas y herramientas.
 * [pingdom](https://tools.pingdom.com/)
 * [pagespeed](https://developers.google.com/speed/pagespeed/insights/?hl=es)
 * [Correo Electrónico Personalizado](https://www.youtube.com/watch?v=iy6HkSOg_2s)
-* []()
+* [Instalar WordPress a través de un cliente FTP](https://www.youtube.com/watch?v=F3uEt8XJgfo)
 * []()
 
 
