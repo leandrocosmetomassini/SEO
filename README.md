@@ -53,7 +53,7 @@ Técnicas y herramientas.
 * ["dominio" nos muestra cualquier web que tenga esto en su contenido](https://www.google.com)
 * [pingdom](https://tools.pingdom.com/)
 * [pagespeed](https://developers.google.com/speed/pagespeed/insights/?hl=es)
-* []()
+* [Correo Electrónico Personalizado](https://www.youtube.com/watch?v=iy6HkSOg_2s)
 * []()
 * []()
 
