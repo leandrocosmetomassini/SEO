@@ -129,7 +129,7 @@ Técnicas y herramientas.
 * [tiendadepinceles](https://tiendadepinceles.online/)  
 * [pizarras-blancas](https://www.pizarras-blancas.es/)  
 * [tujoyero](https://tujoyero.es/)  
-* [autoclavedevapor](https://autoclavedevapor.com/)  
+* [--- autoclavedevapor](https://autoclavedevapor.com/)  
 * []()  
 * []()  
 * []()  
