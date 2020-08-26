@@ -135,7 +135,7 @@ Técnicas y herramientas.
 * [tujoyero](https://tujoyero.es/)  
 * [--- autoclavedevapor](https://autoclavedevapor.com/)  
 * [--- ingletadoratelescopica](https://ingletadoratelescopica.com/)  
-* []()  
+* [paramayores](https://paramayores.net/pastilleros/pastillero-semanal/)  
 * []()  
 * []()  
 * []()  
