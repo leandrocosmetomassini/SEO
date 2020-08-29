@@ -1,6 +1,6 @@
 ![](https://bigseoacademy.com/wp-content/themes/orbital-child/assets/img/of-bigseo.png)
 # SEO
-Técnicas y herramientas..
+Técnicas y herramientas.
 
 # Cursos de SEO  
 * [Curso de SEO gratis](https://romualdfons.com/curso-seo/)
