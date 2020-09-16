@@ -59,7 +59,7 @@ Técnicas y herramientas.
 * [boardreader](https://boardreader.com/)
 * [buzzsumo](https://app.buzzsumo.com/)
 * [Resenas amazon](https://www.amazon.es/)
-* []()
+* [emojis](https://diegol.top/ecommerce/emojis-iconos-fichas-de-producto/)
 * []()
 * []()
 * []()
