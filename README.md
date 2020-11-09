@@ -60,7 +60,7 @@ Técnicas y herramientas.
 * [buzzsumo](https://app.buzzsumo.com/)
 * [Resenas amazon](https://www.amazon.es/)
 * [emojis](https://diegol.top/ecommerce/emojis-iconos-fichas-de-producto/)
-* []()
+* [amazon](https://www.amazon.es/gp/site-directory)
 * []()
 * []()
 * []()
