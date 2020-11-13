@@ -165,7 +165,7 @@ Técnicas y herramientas.
 * [descuentopagares](https://descuentopagares.top/)  
 * [rizadorpelo](https://rizadorpelo.com/)  
 * [******calderasdegas](https://calderasdegas.net/)  
-* []()  
+* [diapasom](https://diapasom.com/)  
 * []()  
 * []()  
 * []()  
